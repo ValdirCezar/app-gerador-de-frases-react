@@ -24,6 +24,4 @@
 	<a href="https://twitter.com/ValdirCezar1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-Link para curso com certificado: https://www.udemy.com/course/draft/3708886/?referralCode=003BA46D1109483E9274
-
 #
