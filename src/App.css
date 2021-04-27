@@ -1,0 +1,25 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  width: 30%;
+  margin-top: 10rem;
+  margin-bottom: .6rem;
+}
+
+.btn {
+  width: 20rem;
+  height: 2rem;
+  box-shadow: 4px 4px 4px rgb(177, 174, 174);
+}
+
+.frase {
+  color: #f57b09;
+  text-align: center;
+}
